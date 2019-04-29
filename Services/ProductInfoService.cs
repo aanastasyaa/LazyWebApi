@@ -23,6 +23,14 @@ namespace LazyWebApi.Services
             return new OkResult();
         }
 
+        public async Task<IEnumerable<Product>> GetAll()
+        {
+            using (var connection = new NpgsqlConnection(ConnectionString))
+            {
+                return await connection.QueryAsync<Product>("SELECT *FROM schema007.products ");
+            }
+        }
+
         public async Task<Product> GetById(Guid id)
         {
             using (var connection = new NpgsqlConnection(ConnectionString))

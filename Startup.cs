@@ -51,7 +51,8 @@ namespace LazyWebApi
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, Microsoft.Extensions.Hosting.IHostingEnvironment env)
         {
-            app.UseMvc();
+            app.UseMiddleware<ExceptionHandlerMiddleware>();
+			app.UseMvc();
         }
     }
 }

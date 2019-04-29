@@ -11,5 +11,6 @@ namespace LazyWebApi.Services.Interfaces
     {
         Task<Product> GetById(Guid id);
         Task<IActionResult> AppendProduct(Product product);
+        Task<IEnumerable<Product>> GetAll();
     }
 }

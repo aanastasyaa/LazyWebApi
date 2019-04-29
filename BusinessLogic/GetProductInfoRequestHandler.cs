@@ -31,5 +31,10 @@ namespace LazyWebApi.BusinessLogic
                 throw new InvalidOperationException("Такой идентификатор отсутствует в БД");
             }
         }
+
+        public async Task<IEnumerable<Product>> HandleAll()
+        {
+            return await _productInfoService.GetAll();
+        }
     }
 }

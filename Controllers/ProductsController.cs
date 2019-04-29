@@ -3,6 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using LazyWebApi.BusinessLogic;
 using LazyWebApi.Models;
+using System.Collections.Generic;
 
 namespace LazyWebApi.Controllers
 {
@@ -22,6 +23,12 @@ namespace LazyWebApi.Controllers
         public Task<Product> GetProductInfo(Guid id)
         {
             return _getProductsInfoRequestHandler.Handle(id);
+        }
+
+        [HttpGet]
+        public Task<IEnumerable<Product>> GetAllProducts()
+        {
+            return _getProductsInfoRequestHandler.HandleAll();
         }
 
         [HttpPost("append")]
