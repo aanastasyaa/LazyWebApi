@@ -1,0 +1,14 @@
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\bin\Debug\netcoreapp2.2\LazyWebApi.deps.json
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\bin\Debug\netcoreapp2.2\LazyWebApi.runtimeconfig.json
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\bin\Debug\netcoreapp2.2\LazyWebApi.runtimeconfig.dev.json
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\bin\Debug\netcoreapp2.2\LazyWebApi.dll
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\obj\Debug\netcoreapp2.2\LazyWebApi.csprojAssemblyReference.cache
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\obj\Debug\netcoreapp2.2\LazyWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\obj\Debug\netcoreapp2.2\LazyWebApi.RazorAssemblyInfo.cache
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\obj\Debug\netcoreapp2.2\LazyWebApi.RazorAssemblyInfo.cs
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\obj\Debug\netcoreapp2.2\LazyWebApi.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\obj\Debug\netcoreapp2.2\LazyWebApi.AssemblyInfo.cs
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\obj\Debug\netcoreapp2.2\LazyWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\bin\Debug\netcoreapp2.2\LazyWebApi.pdb
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\obj\Debug\netcoreapp2.2\LazyWebApi.dll
+C:\Users\Анастасия\Documents\Rider\LazyWebApi\LazyWebApi\obj\Debug\netcoreapp2.2\LazyWebApi.pdb
